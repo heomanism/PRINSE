@@ -1,5 +1,5 @@
 # PRINSE
-PReprocessing pIpeLine of rNa - SEq 
+**PR**eprocessing p**I**peLine of r**N**a - **SE**q 
 
 Preprocessing pipeline of RNA-seq
 
