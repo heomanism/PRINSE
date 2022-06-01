@@ -9,7 +9,7 @@ import SamtoolsIndexing
 import Quantification
 
 ## 인자값을 받을 수 있는 인스턴스 생성
-parser = argparse.ArgumentParser(description='Whole Genome Sequencing Germline Variant Calling made by Min Heo')
+parser = argparse.ArgumentParser(description='RNA pre-processing pipeline made by Min Heo')
 
 ## 입력받을 인자값 등록 , 필수 값은 required=True해야함
 parser.add_argument('-Dp', required=True, help='RNA seq pre-processing Directory')
